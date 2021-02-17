@@ -1,1 +1,1 @@
-# Predict-Status-of-hotel-booking
+# Predict Status of hotel booking
